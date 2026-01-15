@@ -33,4 +33,11 @@ https://drive.google.com/file/d/1s4mEqjt6m_TUtmKs69PK3BnPDOCXDxmW/view?usp=shari
 
 ## 🤔 Supuestos y Decisiones
 
+Para resolver el problema, usé un enfoque recursivo. Esto significa que la función se llama a sí misma para calcular cuántos paneles caben en espacios más pequeños que quedan después de colocar los paneles principales.
+
+Consideré dos opciones para cada techo: colocar los paneles en su orientación normal (a x b) o rotados (b x a), y elegí la que permite más paneles.
+
+Esto me permite explorar todas las formas posibles de dividir el techo de manera eficiente.
+
+
 
